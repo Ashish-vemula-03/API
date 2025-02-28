@@ -1,0 +1,28 @@
+
+
+
+
+  {
+    "title": "Idli",
+    "ingredients": [
+      "2 cups idli rice",
+      "1 cup urad dal (black gram)",
+      "1/2 teaspoon fenugreek seeds",
+      "Salt to taste",
+      "Water as needed"
+    ],
+  "instructions": [
+  "1. Wash and soak idli rice and urad dal separately for 6 hours.",
+  "2. Grind urad dal into a smooth batter and idli rice into a coarse batter.",
+  "3. Mix both batters together, add salt, and let it ferment overnight.",
+  "4. Pour the batter into idli molds and steam for 10-12 minutes.",
+  "5. Serve hot with coconut chutney and sambar."
+],
+  "image": "",
+    "category": "Breakfast",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "nutrition": { "calories": 120, "protein": 4, "fat": 0.5, "carbs": 26 }
+  }
+ 
